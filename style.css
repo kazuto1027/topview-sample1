@@ -91,7 +91,7 @@ body {
     /* コンテンツの高さが画像の高さより大きい時、動かないように固定 */
     background-attachment: fixed;
     /* 表示するコンテナの大きさに基づいて、背景画像を調整 */
-    background-size: 50% 90%;
+    background-size: 50% 50%;
     /* 背景画像が読み込まれる前に表示される背景のカラー */
     background-color: #171717;
     height: 100%;
@@ -369,9 +369,6 @@ main {
         text-align: center;
         padding-bottom: 50px;
         background-color: black;
-    }
-    body {
-        background-size: cover;
     }
     .main__top-title h1 {
         padding-top: 100px;
