@@ -368,5 +368,10 @@ main {
   body {
     background-size: cover;
   }
+  
+  .main__top-title h1 {
+    padding-top: 100px;
+    font-size: 50px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
